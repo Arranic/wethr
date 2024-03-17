@@ -30,3 +30,6 @@ Weather Alerts Screen:
 Settings Screen: 
 ------ Allow users to customize settings, including temperature units (Celsius/Fahrenheit) 
 ------ Provide options for app preferences and notifications
+
+
+https://github.com/Arranic/wethr/blob/master/README.md
